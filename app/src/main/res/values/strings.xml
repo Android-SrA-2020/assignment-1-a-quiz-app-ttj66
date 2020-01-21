@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickAndMortyQuiz</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="move_back"><![CDATA[<]]></string>
+    <string name="move_fwd"><![CDATA[>]]></string>
+
+
+</resources>
